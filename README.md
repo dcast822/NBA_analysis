@@ -7,6 +7,18 @@ Using a variety of statistics from basket-ball reference (both box-score and adv
 * Who had phenomenal MVP seasons?
 * Who were the most underwhelming MVP candidates during that span?
 
-# Dataset
+## Dataset
 
 The dataset is webscraped directly from basketball-reference.com.  The sections of interest were the player stats, team records, mvp related stats such as vote share, and advanced stats such as VORP and true shooting percentage.  
+
+## Data Visualizations & Analysis
+
+
+
+## Models Utilized
+
+
+## Insights & Observations
+
+
+## Conclusions & Recommendations
